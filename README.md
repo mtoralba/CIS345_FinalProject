@@ -1,2 +1,2 @@
 # CIS345_FinalProject
-University Registrantion Windows Form Application
+University Registration Windows Form Application
